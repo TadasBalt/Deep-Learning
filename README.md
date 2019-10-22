@@ -5,7 +5,7 @@
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
-## Tables
+## Stalai
 
 Use this example to draw your Tables
 
